@@ -22,7 +22,7 @@
 #endif
 
 /* System/Standard includes */
-#include "config.h"
+// #include "config.h"
 #include <errno.h>
 #include <stddef.h>
 #include <stdio.h>

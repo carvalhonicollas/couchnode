@@ -71,7 +71,7 @@ filelist.mk
 /config/m4/ltversion.m4
 /config/m4/lt~obsolete.m4
 /config/m4/version.m4
-# /src/config.h
+/src/config.h
 /src/config.h.in
 /src/probes.h
 /src/stamp-h1
